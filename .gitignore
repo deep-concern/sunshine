@@ -5,3 +5,6 @@
 .DS_Store
 /build
 /captures
+
+# For API keys
+keys.txt
